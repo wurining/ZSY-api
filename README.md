@@ -1,6 +1,7 @@
 
-Application created by [ThinkJS](http://www.thinkjs.org)
+Application created by [Rining Wu](http://www.wurining.com)
 
+This project based on [ThinkJS](http://www.thinkjs.org), and provide API services for ZSY-admin.
 ## Install dependencies
 
 ```
