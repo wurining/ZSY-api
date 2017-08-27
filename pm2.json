@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "ZSY-api",
+    "script": "production.js",
+    "cwd": "/Users/wu/Documents/WebStormPRO/ZSY-api",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
